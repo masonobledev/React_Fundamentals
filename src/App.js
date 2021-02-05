@@ -5,7 +5,7 @@ import Auth from "./components/challenges/day03/Auth/Auth";
 function App() {
   return (
     <div>
-      <Auth/>
+      <MortyParent/>
     </div>
   );
 }
